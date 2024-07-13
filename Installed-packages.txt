@@ -1,0 +1,80 @@
+ 
+ //Installed react routing library for routing
+ "react-router": "^6.24.1", 
+ "react-router-dom": "^6.24.1",
+
+ 
+  //Installed react redux library for global state management
+  "react-redux": "^9.1.2",
+  "@reduxjs/toolkit": "^2.2.6",
+
+
+  // Installed material React MUI icons, material, styles, styled-engine-sc, roboto font
+
+    "@emotion/styled": "^11.11.5",
+    "@fontsource/roboto": "^5.0.13",
+    "@mui/icons-material": "^5.16.1",
+    "@mui/material": "^5.16.1",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+
+
+
+    // Added bootstrap style in index.html file 
+    //Added style  bootstrap  style inside head tag :
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+    //Added javaacript bundle inside body tag of the index.html
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    // installed axios for api handlelling
+        "axios": "^1.7.2",
+
+    // Installed drag and drop package for drag and drop things in react
+    "react-draggable": "^4.4.6",
+
+    // Install firebase for authentication
+        "firebase": "^10.12.3",
+
+
+    //  Install datepicker
+        "react-datepicker": "^7.3.0",
+
+
+    // Install storybook to make reusable components
+        "@storybook/react": "^8.2.2",
+
+    // Install react-i18next for different language change
+        "react-i18next": "^14.1.2",
+
+    //  After scanning it show how many issues, error, code duplication present in our application
+        "sonarqube-scanner": "^4.0.1",
+
+        
+    // Yup is a schema builder for runtime value parsing and validation. Define a schema, transform a value to match, assert the shape of an existing value, or both. Yup schema are extremely expressive and allow modeling complex, interdependent validations, or value transformation.
+         npm i yup
+
+
+    //react-colorful is a simple color picker for those who care about their bundle size and client-side performance. It is fast and lightweight because:
+        npm i react-colorful
+
+    //React components for Chart.js, the most popular charting library.
+        npm i react-chartjs-2
+
+
+    // A circular progressbar component, built with SVG and extensively customizable. 
+    npm i react-circular-progressbar    
+
+
+    // tailwindcss
+    npm install -D tailwindcss
+
+    // installed for testing
+    "@types/jest": "^27.5.2",
+
+
+
+
+
+    
